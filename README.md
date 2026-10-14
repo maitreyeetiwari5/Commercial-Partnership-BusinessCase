@@ -14,6 +14,8 @@ It compares three structures across three scenarios, identifies the assumptions 
 | **B: MG + revenue share** | (298) | **101** | 585 | **122** |
 | C: Pure revenue share | (213) | (92) | 185 | (53) |
 
+For Structure B in the Base case: **payback in Year 3**, and a breakeven of about **0.72M Year-1 subscribers vs. 1.0M assumed** (roughly a 28% cushion). Both are in the Excel model (`Memo` tab; breakeven on `Sensitivity`) and the [Finance POV memo](Finance_POV_Memo.md). Breakeven is a linear approximation, so treat it as approximate for Structure B, where the minimum guarantee creates a kink. All figures come from a hypothetical deal, not disclosed terms.
+
 ![Scenario NPV](scenario_npv.png)
 ![Tornado](tornado.png)
 
